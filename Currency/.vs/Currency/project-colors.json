@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a647bb52-f21b-47fe-a0ff-b6fc2da7102c": {
+      "ProjectGuid": "a647bb52-f21b-47fe-a0ff-b6fc2da7102c",
+      "DisplayName": "Currency",
+      "ColorIndex": 0
+    },
+    "db11cc0c-10bf-4834-90f0-0a3b55052bf8": {
+      "ProjectGuid": "db11cc0c-10bf-4834-90f0-0a3b55052bf8",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
