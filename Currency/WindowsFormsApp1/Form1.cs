@@ -15,7 +15,7 @@ namespace WindowsFormsApp1
     {
         double d_alis, d_satis, e_alis, e_satis;
 
-        protected void richTextBox3_TextChanged(object sender, EventArgs e)
+        protected void textBox1_TextChanged(object sender, EventArgs e)
         {
             textBox2.Text = Convert.ToString(double.Parse(textBox1.Text) / double.Parse(label4.Text));
             textBox3.Text = Convert.ToString(double.Parse(textBox1.Text) / double.Parse(label6.Text));
